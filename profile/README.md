@@ -1,7 +1,5 @@
 <div align=center>
 <img src="../img/Auto-sense-logo.jpeg" height ="250px" />
-  
-![logo](../img/Auto-sense-logo.jpeg)
 
 ## Olá senhoras e senhores!!
 
@@ -17,7 +15,7 @@ Somos um grupo de estudantes da faculdade **FIAP**, onde esse projeto é nossa s
 No challenge para a turma de ADS do ano 2024 foi proposto pela Porto Seguro sendo apresentado a seguinte problemática, Como oferecer um canal digital para gerar agilidade e assertividade no diagnóstico do problema do veículo, sem intervenção humana.
 Não iremos falar atualmente qual a nossa solução para este problema mas futuramente iremos junto com dos repositorios.
 #### Linguagens Utilizadas
-<div align=left spacebetwen>
+<div align=left>
 <code><img src="../img/html5-logo.png" alt="html-logo" height="60px"/></code>
 <code><img src="../img/css-logo.png" alt="css-logo" height="60px"/></code>
 <code><img src="../img/python-logo.png" alt="python-logo" height="50px"/></code>
